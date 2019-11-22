@@ -2,9 +2,11 @@
 \alias{rand_letter}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
+rand_letter
 %%  rand_letter
 }
 \description{
+it's for class
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
 \usage{
