@@ -1,0 +1,9 @@
+Package: bigV3
+Type: Package
+Title: Returns a random letter
+Version: 1.0
+Date: 2019-11-22
+Author: Vincent
+Maintainer: vkuo25@gmail.com
+Description: More about what it does (maybe more than one line)
+License: What license is it under?

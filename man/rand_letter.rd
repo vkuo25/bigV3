@@ -2,10 +2,10 @@
 \alias{rand_letter}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  rand_letter()
+%%  ~~function to do ... ~~
 }
 \description{
-%%  returns a random letter
+%%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
 \usage{
 rand_letter(x)
@@ -49,6 +49,7 @@ rand_letter(x)
 ## The function is currently defined as
 function (x) 
 {
+    return(sample(letters, 1))
   }
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
